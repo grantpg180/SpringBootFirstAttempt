@@ -1,0 +1,59 @@
+.header {
+  padding: 20px;
+  text-align: center;
+  background: gray;
+  color: white;
+  font-size: 30px;
+  font-family: 'Permanent Marker', cursive;
+}
+.dropdowntitle {
+	font-family: 'Permanent Marker', cursive;
+}
+html {
+	background-color: gray;
+	background-size: cover;
+}
+body {
+	background-color: gray !important;
+}
+.col-sm-12 {
+	text-align: center;
+}
+.bwpics {
+	filter: grayscale(100%);
+}
+.bwpics:hover {
+	filter: contrast(100%);
+}
+.row {
+	background-color: gray;
+}
+.card-body {
+	background-color: gray;
+	color: white;
+	font-family: 'Playfair Display', serif;
+}
+
+h1, p {
+	background-color: gray;
+	color: white;
+	font-family: 'Playfair Display', serif;
+}
+.container {
+	color: white;
+}
+a {
+	color: white;
+}
+table, td {
+	border: 5px solid black;
+	background-color: dimgray;
+	color: white;
+}
+.comments {
+  margin-right: 30px;
+
+}
+.ram {
+	margin-right: 50px;
+}
